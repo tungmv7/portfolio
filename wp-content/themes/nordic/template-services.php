@@ -24,7 +24,7 @@
 	<div class="row services-list">
         <?php foreach($services as $service): ?>
 		<div class="col-sm-6 service">
-			<div class="service-icon">
+			<div class="service-icon visible-md visible-lg">
 				<?php if($service["service_avatar"]): ?>
 				<img src="<?php echo $service["service_avatar"]; ?>"/>
 				<?php else: ?>
