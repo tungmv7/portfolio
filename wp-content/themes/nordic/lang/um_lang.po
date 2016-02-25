@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nordic\n"
+"POT-Creation-Date: 2013-09-25 12:00+0100\n"
+"PO-Revision-Date: 2013-09-25 12:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\nordic\\wp-content\\themes"
+"\\nordic\n"
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/comments.php:4
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/comments.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/single-portfolio.php:102
+msgid "Related projects"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/single-post.php:61
+msgid "Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-blog.php:62
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-portfolio.php:182
+msgid "Load More"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-contact.php:89
+msgid "Contact Us"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-contact.php:94
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:559
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-contact-form.php:18
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-contact.php:95
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-contact-form.php:19
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-contact.php:96
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:205
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-contact-form.php:20
+msgid "Message"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-contact.php:97
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-contact-form.php:21
+msgid "Send"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-contact.php:112
+msgid "Address"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-home-slider.php:37
+msgid "What we do"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-home-slider.php:103
+msgid "Our latest works"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/template-portfolio.php:97
+msgid "All"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:138
+msgid "Map address"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:139
+msgid "Return the address along with the coordinates."
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:158
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:144
+msgid "Map center"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:159
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:145
+msgid "Latitude and longitude to center the initial map."
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:173
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:159
+msgid "Map zoom"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:188
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:174
+msgid "Map Scrollwheel"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:189
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:175
+msgid "Allows scrollwheel zooming on the map field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:274
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:245
+msgid "This address could not be found: "
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:289
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:260
+msgid "This place could not be found: "
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:369
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:340
+msgid "Search for a location"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:371
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:342
+msgid "Find the complete address"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:371
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:342
+msgid "Address: "
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v3.php:373
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:344
+msgid "Coordinates: "
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/acf-location-field/location-v4.php:125
+msgid "Return Value"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:87
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:531
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:640
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:533
+msgid "Reorder Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:533
+msgid "Reorder"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:534
+msgid "Delete Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:534
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:623
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:474
+msgid "Delete"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:538
+msgid "Add New Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:538
+msgid "Add New"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:539
+msgid "Duplicate Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:539
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:622
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:473
+msgid "Duplicate"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:549
+msgid "Label"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:569
+msgid "Display"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:590
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:441
+msgid "Field Order"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:591
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:638
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:442
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:490
+msgid "Field Label"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:592
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:654
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:443
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:506
+msgid "Field Name"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:593
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:669
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:444
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:521
+msgid "Field Type"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:601
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:452
+msgid ""
+"No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:617
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:620
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:468
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:471
+msgid "Edit this Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:620
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:471
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:621
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:472
+msgid "Read documentation for this field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:621
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:472
+msgid "Docs"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:622
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:473
+msgid "Duplicate this Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:623
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:474
+msgid "Delete this Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:639
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:491
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:655
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:507
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:684
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:536
+msgid "Field Instructions"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:704
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:556
+msgid "Column Width"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:705
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:557
+msgid "Leave blank for auto"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:735
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:589
+msgid "Close Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:735
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:589
+msgid "Close Sub Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:749
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:604
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:750
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:605
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-flexible-content/flexible-content.php:757
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:659
+msgid "Button Label"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-options-page/acf-options-page.php:478
+msgid "No Custom Field Group found for the options page"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-options-page/acf-options-page.php:478
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-options-page/acf-options-page.php:489
+msgid "Publish"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-options-page/acf-options-page.php:493
+msgid "Save Options"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:433
+msgid "Repeater Fields"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:584
+msgid "Save Field"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:612
+msgid "Minimum Rows"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/includes/addons/acf-repeater/repeater.php:626
+msgid "Maximum Rows"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:128
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:203
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:128
+msgid "Content"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:131
+msgid "Add Row"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:132
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:207
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:264
+msgid "Get Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:196
+msgid "Type"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:198
+msgid "Info"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:199
+msgid "Success"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:200
+msgid "Warning"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/shortcodes/dialog-forms.php:201
+msgid "Error"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-contact-form.php:44
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-latest-posts.php:67
+msgid "Widget Title"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-contact-form.php:48
+msgid "Chose a Search Form from this dropdown"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-latest-posts.php:41
+msgid "in"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-latest-posts.php:71
+msgid "Post Type"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-latest-posts.php:74
+msgid "Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\nordic\wp-content\themes\nordic/widgets/widget-latest-posts.php:77
+msgid "Portfolio"
+msgstr ""

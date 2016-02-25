@@ -1,0 +1,38 @@
+body, .project-slider ul li {
+	background-color: #313131;
+}
+
+.post-thumb .hover-state {
+	background-color: rgba(255,156,0,.8);
+}
+
+#header ul.main_menu li > a {
+	color: #a2a2a2;
+}
+
+.col-switcher a:hover, .col-switcher a.active {
+	color: #ffffff;
+}
+
+.post_block h4 a, .footer-widgets.row > div ul li > a, .services-intro h1, .contact-intro h1, .member h3, .service h3, .post-content h1.title-of-post, .project-content-top h2, li.comment .comment-author cite a, li.comment .comment-author cite.fn, .projects-intro h1, .project-content h1, .project-content h2, .project-content h3, .project-content h4, .project-content h5, .project-content h6 {
+	color: #ffffff;
+}
+
+h5.widget-title, h5.section-title {
+	border-color: #e2e2e2; 
+	color: #ffffff;
+}
+
+input, textarea, .footer-widgets.row > div select, .widget_tag_cloud a {
+	background-color: #3f3f3f;
+}
+
+input[type=submit], input[type=button], .categories-p ul li a, .tags ul li a, .load-more, .widget.widget_calendar table td, .widget.widget_calendar table th, .categories-p ul li a:hover, .categories-p ul li a.active, .tags ul li a:hover, .load-more:hover, ul.accordion li a, ul.toggle li a, div.tabs ul.tab_buttons li a, ul.accordion li:first-child a, ul.toggle li:first-child a, ul.accordion li div, ul.toggle li div, div.tabs ul.tab_content li, div.tabs ul.tab_buttons li:first-child a {
+	background-color: transparent;
+	border-color: #3f3f3f;
+}
+
+ul.accordion li a.active, ul.accordion li a:hover, ul.toggle li a.active, ul.toggle li a:hover, div.tabs ul.tab_buttons li a.active, div.tabs ul.tab_buttons li a:hover {
+	background-color: #3b3b3b;
+}
+
