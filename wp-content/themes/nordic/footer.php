@@ -13,7 +13,6 @@
     </div>
 </div>
 <?php wp_footer(); ?>
-<p class="TK">Powered by <a href="http://themekiller.com/" title="themekiller" rel="follow"> themekiller.com </a><a href="http://anime4online.com/" title="themekiller" rel="follow"> anime4online.com </a> <a href="http://animextoon.com/" title="themekiller" rel="follow"> animextoon.com </a> </p>
 </body>
 </html>
 <?php endif; ?>
