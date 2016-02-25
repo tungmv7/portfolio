@@ -24,3 +24,9 @@ Tags: nordic, repsonsive, clean
 	border: 1px solid #ccc;
 	padding: 5px;
 }
+.service-icon {
+	margin-right: 15px;
+}
+.service h3, .service p {
+	padding-left: 0;
+}
