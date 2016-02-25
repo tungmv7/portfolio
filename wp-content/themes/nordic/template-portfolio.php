@@ -43,7 +43,7 @@
                     <div class="post-thumb">
                         <a href="<?php the_permalink(); ?>">
                             <div class="hover-state">
-                                <p class="likes"><i class="icon-heart"></i> <?php echo get_likes(); ?></p>
+<!--                                <p class="likes"><i class="icon-heart"></i> --><?php //echo get_likes(); ?><!--</p>-->
                                 <p class="cont"><i class="icon-search"></i></p>
                             </div>
                             <?php the_post_thumbnail("work_post"); ?>
@@ -80,7 +80,7 @@
 						'operator' => 'NOT IN'
 					));
 				}
-				$arguments["posts_per_page"] = 4;
+				$arguments["posts_per_page"] = 12;
 				$arguments["paged"] = $_REQUEST["um_paged"];
 				$the_query = new WP_Query( $arguments );
 			}
@@ -102,7 +102,7 @@
                     <div class="post-thumb">
                         <a href="<?php the_permalink(); ?>">
                             <div class="hover-state">
-                                <p class="likes"><i class="icon-heart"></i> <?php echo get_likes(); ?></p>
+<!--                                <p class="likes"><i class="icon-heart"></i> --><?php //echo get_likes(); ?><!--</p>-->
                                 <p class="cont"><i class="icon-search"></i></p>
                             </div>
                             <?php the_post_thumbnail("work_post_medium"); ?>
@@ -220,7 +220,7 @@ get_header();
                     <div class="post-thumb">
                         <a href="<?php the_permalink(); ?>">
                             <div class="hover-state">
-                                <p class="likes"><i class="icon-heart"></i> <?php echo get_likes(); ?></p>
+<!--                                <p class="likes"><i class="icon-heart"></i> --><?php //echo get_likes(); ?><!--</p>-->
                                 <p class="cont"><i class="icon-search"></i></p>
                             </div>
                             <?php the_post_thumbnail("work_post"); ?>
@@ -259,7 +259,7 @@ get_header();
 					));
 				}
 
-				$arguments["posts_per_page"] = 4;
+				$arguments["posts_per_page"] = 12;
 				$the_query = new WP_Query( $arguments );
 			}
             while ( $the_query->have_posts() ) :  $the_query->the_post();
@@ -280,7 +280,7 @@ get_header();
                     <div class="post-thumb">
                         <a href="<?php the_permalink(); ?>">
                             <div class="hover-state">
-                                <p class="likes"><i class="icon-heart"></i> <?php echo get_likes(); ?></p>
+<!--                                <p class="likes"><i class="icon-heart"></i> --><?php //echo get_likes(); ?><!--</p>-->
                                 <p class="cont"><i class="icon-search"></i></p>
                             </div>
                             <?php the_post_thumbnail("work_post_medium"); ?>

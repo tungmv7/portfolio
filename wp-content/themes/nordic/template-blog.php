@@ -4,7 +4,7 @@
             <div class="post-thumb">
                 <a href="<?php the_permalink(); ?>">
                 <div class="hover-state">
-                    <p class="likes"><i class="icon-heart"></i> <?php echo get_likes(); ?></p>
+<!--                    <p class="likes"><i class="icon-heart"></i> --><?php //echo get_likes(); ?><!--</p>-->
                     <p class="cont"><i class="icon-search"></i></p>
                 </div>
                 <?php the_post_thumbnail("work_post_medium"); ?>
@@ -45,7 +45,7 @@ get_header();
                     <div class="post-thumb">
                         <a href="<?php the_permalink(); ?>">
                         <div class="hover-state">
-                            <p class="likes"><i class="icon-heart"></i> <?php echo get_likes(); ?></p>
+<!--                            <p class="likes"><i class="icon-heart"></i> --><?php //echo get_likes(); ?><!--</p>-->
                             <p class="cont"><i class="icon-search"></i></p>
                         </div>
                         <?php the_post_thumbnail("work_post_medium"); ?>

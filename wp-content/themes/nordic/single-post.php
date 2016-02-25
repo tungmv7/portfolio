@@ -15,16 +15,16 @@
 					<i class="icon-user"></i><br>
 					<p><?php the_author_meta( "display_name" , $post->post_author ); ?></p>
 				</li>
-                <li>
-                    <?php
-                    $coockie_offset = 'um_liked_'.$post->ID;
-                    $liked = isset($_COOKIE[$coockie_offset]) && $_COOKIE[$coockie_offset] ? "liked" : "";
-                    ?>
-                    <a href="#" class="like <?php echo $liked; ?>" data-postid="<?php echo $post->ID; ?>">
-                        <i class="icon-heart"></i><br>
-                        <p><?php echo get_likes(); ?></p>
-                    </a>
-                </li>
+<!--                <li>-->
+<!--                    --><?php
+//                    $coockie_offset = 'um_liked_'.$post->ID;
+//                    $liked = isset($_COOKIE[$coockie_offset]) && $_COOKIE[$coockie_offset] ? "liked" : "";
+//                    ?>
+<!--                    <a href="#" class="like --><?php //echo $liked; ?><!--" data-postid="--><?php //echo $post->ID; ?><!--">-->
+<!--                        <i class="icon-heart"></i><br>-->
+<!--                        <p>--><?php //echo get_likes(); ?><!--</p>-->
+<!--                    </a>-->
+<!--                </li>-->
 			</ul>
 		</div>
 	</div>
@@ -63,7 +63,7 @@
 		</div>
 	</div>
 
-    <?php comments_template(); ?>
+	<?php //comments_template(); ?>
 
 </div>
 <script type="text/javascript">

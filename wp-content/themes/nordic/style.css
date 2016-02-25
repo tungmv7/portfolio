@@ -16,6 +16,9 @@ Tags: nordic, repsonsive, clean
 .post-thumb img {
 	padding: 5px;
 }
+.project_thumb {
+	margin-bottom: 18px;
+}
 .project_thumb div {
 	box-shadow: 1px 1px 1px #f5f5f5;
 	border: 1px solid #ccc;

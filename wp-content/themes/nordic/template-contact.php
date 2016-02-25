@@ -36,59 +36,11 @@ get_header();
 		</div>
 	</div>
 
-    <?php
-        $map = get_field("google_map");
-        if($map):
-        $coordinates = explode(",",$map["coordinates"]);
-    ?>
-	<div class="row">
-		<div class="col-sm-12 map">
-			<div style="height: 400px;" id="map"></div>
-		</div>
-	</div>
-    <script type="text/javascript">
-	    	function initialize() {
-		        var map;
-				var brooklyn = new google.maps.LatLng(parseFloat("<?php echo $coordinates[0]; ?>"), parseFloat("<?php echo $coordinates[1]; ?>"));
-
-				var stylez = [
-				    {
-				      featureType: "all",
-				      elementType: "all",
-				      stylers: [
-				        { saturation: -100 } // <-- THIS
-				      ]
-				    }
-				];
-
-				var mapOptions = {
-				    zoom: parseInt("<?php the_field("google_map_zoom_level"); ?>"),
-				    center: brooklyn,
-				    mapTypeControlOptions: {
-				         mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'tehgrayz']
-				    }
-				};
-
-				map = new google.maps.Map(document.getElementById("map"), mapOptions);
-
-				var mapType = new google.maps.StyledMapType(stylez, { name:"Grayscale" });    
-				map.mapTypes.set('tehgrayz', mapType);
-				map.setMapTypeId('tehgrayz');
-                marker = new google.maps.Marker({
-                    title : "<?php echo $map["address"]; ?>",
-                    position: new google.maps.LatLng(parseFloat("<?php echo $coordinates[0]; ?>"), parseFloat("<?php echo $coordinates[1]; ?>")),
-                    map: map
-                });
-	      	}
-            initialize();
-	    	//google.maps.event.addDomListener(window, 'load', initialize);
-	    </script>
-    <?php endif; ?>
 
 	<div class="row contact-info">
 		<div class="contact-from col-sm-8">
 			<div class="row">
-				<div class="col-sm-12"><h5 class="section-title"><?php _e("Contact Us","um_lang"); ?></h5></div>
+				<div class="col-sm-12"><h5 class="section-title"><?php _e("Leave a message","um_lang"); ?></h5></div>
 			</div>
 			<div class="row">
 				<form action="<?php the_permalink(); ?>" class="col-sm-12" id="contact-page-form">
@@ -111,7 +63,7 @@ get_header();
         <?php if(get_field("address")): ?>
 		<div class="address col-sm-4">
 			<div class="row">
-				<div class="col-sm-12"><h5 class="section-title"><?php _e("Address","um_lang"); ?></h5></div>
+				<div class="col-sm-12"><h5 class="section-title"><?php _e("About me","um_lang"); ?></h5></div>
 			</div>
 			<div class="row">
 				<div class="col-sm-12">
@@ -123,4 +75,4 @@ get_header();
 	</div>
 </div>
 
-<?php get_footer(); ?>
+<?php //get_footer(); ?>

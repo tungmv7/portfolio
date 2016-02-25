@@ -43,7 +43,7 @@
     <?php endif; ?>
 
 	<div class="row project-content-top">
-		<div class="col-sm-7">
+		<div class="col-sm-12">
 			<h2><?php the_title(); ?></h2>
             <?php
             $terms = wp_get_post_terms( $post->ID,"portfolio_category" );
@@ -61,28 +61,28 @@
 			</ul>
             <?php endif; ?>
 		</div>
-		<div class="project-buttons col-sm-5">
-			<ul>
-				<li>
-					<i class="icon-time"></i><br>
-                    <p><?php echo get_the_date("d M"); ?></p>
-				</li>
-				<li>
-					<i class="icon-user"></i><br>
-                    <p><?php the_author_meta( "display_name" , $post->post_author ); ?></p>
-				</li>
-				<li>
-                    <?php
-                        $coockie_offset = 'um_liked_'.$post->ID;
-                        $liked = isset($_COOKIE[$coockie_offset]) && $_COOKIE[$coockie_offset] ? "liked" : "";
-                    ?>
-                    <a href="#" class="like <?php echo $liked; ?>" data-postid="<?php echo $post->ID; ?>">
-						<i class="icon-heart"></i><br>
-                        <p><?php echo get_likes(); ?></p>
-					</a>
-				</li>
-			</ul>
-		</div>
+<!--		<div class="project-buttons col-sm-5">-->
+<!--			<ul>-->
+<!--				<li>-->
+<!--					<i class="icon-time"></i><br>-->
+<!--                    <p>--><?php //echo get_the_date("d M"); ?><!--</p>-->
+<!--				</li>-->
+<!--				<li>-->
+<!--					<i class="icon-user"></i><br>-->
+<!--                    <p>--><?php //the_author_meta( "display_name" , $post->post_author ); ?><!--</p>-->
+<!--				</li>-->
+<!--				<li>-->
+<!--                    --><?php
+//                        $coockie_offset = 'um_liked_'.$post->ID;
+//                        $liked = isset($_COOKIE[$coockie_offset]) && $_COOKIE[$coockie_offset] ? "liked" : "";
+//                    ?>
+<!--                    <a href="#" class="like --><?php //echo $liked; ?><!--" data-postid="--><?php //echo $post->ID; ?><!--">-->
+<!--						<i class="icon-heart"></i><br>-->
+<!--                        <p>--><?php //echo get_likes(); ?><!--</p>-->
+<!--					</a>-->
+<!--				</li>-->
+<!--			</ul>-->
+<!--		</div>-->
 	</div>
 	<div class="row project-content">
 		<div class="col-sm-12">

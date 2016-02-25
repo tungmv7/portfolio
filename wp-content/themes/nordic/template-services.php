@@ -12,9 +12,9 @@
 			<h1><?php the_field("heading_title"); ?></h1>
 			<h3><?php the_field("sub_heading"); ?></h3>
 		</div>
-		<div class="col-sm-12 service-bigimg">
-			<?php the_post_thumbnail("large"); ?>
-		</div>
+<!--		<div class="col-sm-12 service-bigimg">-->
+<!--			--><?php //the_post_thumbnail("large"); ?>
+<!--		</div>-->
 	</div>
 
     <?php

@@ -15,8 +15,6 @@
         <link rel="icon" type="image/png" href="<?php the_field("site_favico","options"); ?>">
     <?php endif; ?>
 
-    <link href="<?php echo get_stylesheet_directory_uri();?>/style.css" rel="stylesheet">
-
     <script type="text/javascript">
         var um_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
         var home_columns_animation_delay = 200;
@@ -36,6 +34,7 @@
         </script>
     <?php endif; ?>
     <?php wp_head(); ?>
+    <link href="<?php echo get_stylesheet_directory_uri();?>/style.css" rel="stylesheet">
 </head>
 <body <?php body_class(); ?> >
 <?php if(get_field("ajax_site","options") != 'Disabled'): ?>
