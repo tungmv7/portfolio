@@ -12,7 +12,7 @@ class umbrella_contact_form extends WP_Widget{
         $title = apply_filters('widget_title', $instance['title']);
         $contact_form_id = $instance['contact_form_id'];
         ?>
-        <div class="um-contact-widget widget col-sm-6" >
+        <div class="um-contact-widget widget col-sm-8" >
             <h5 class="widget-title"><?php echo $title; ?></h5>
             <form action="" class="contact-widget" data-contact_form_id="<?php echo $contact_form_id; ?>">
                 <p><input type="text" name="w-name" id="w-name" placeholder="<?php _e("Name","um_lang"); ?>"></p>
