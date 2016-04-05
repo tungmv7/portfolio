@@ -10,7 +10,6 @@
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
     <?php if(get_field("site_favico","options")): ?>
         <link rel="icon" type="image/png" href="<?php the_field("site_favico","options"); ?>">
     <?php endif; ?>
@@ -57,7 +56,6 @@
         </a>
         <?php endif; ?>
     </div>
-    <!-- <p class="site-description"><?php bloginfo("description"); ?></p> -->
     <div class="main-menu-holder">
         <?php
             wp_nav_menu(array("theme_location" => "main_menu","menu_id"=>"main_menu","menu_class"=>"main_menu visible-lg visible-md"));
