@@ -33,7 +33,7 @@
         </script>
     <?php endif; ?>
     <?php wp_head(); ?>
-    <link href="<?php echo get_stylesheet_directory_uri();?>/style.css" rel="stylesheet">
+    <link href="<?php echo get_stylesheet_directory_uri();?>/style.min.css" rel="stylesheet">
 </head>
 <body <?php body_class(); ?> >
 <?php if(get_field("ajax_site","options") != 'Disabled'): ?>
