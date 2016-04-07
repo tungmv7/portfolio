@@ -10,6 +10,7 @@
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php wp_head(); ?>
     <?php if(get_field("site_favico","options")): ?>
         <link rel="icon" type="image/png" href="<?php the_field("site_favico","options"); ?>">
     <?php endif; ?>
@@ -32,7 +33,6 @@
             <?php the_field("custom_javascript","options"); ?>
         </script>
     <?php endif; ?>
-    <?php wp_head(); ?>
     <link href="<?php echo get_stylesheet_directory_uri();?>/style.min.css" rel="stylesheet">
 </head>
 <body <?php body_class(); ?> >
