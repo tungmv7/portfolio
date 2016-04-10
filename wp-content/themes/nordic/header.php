@@ -14,15 +14,6 @@
     <?php if(get_field("site_favico","options")): ?>
         <link rel="icon" type="image/png" href="<?php the_field("site_favico","options"); ?>">
     <?php endif; ?>
-
-    <script type="text/javascript">
-        var um_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
-        var home_columns_animation_delay = 200;
-        var ajax_site = <?php echo get_field("ajax_site","options") == 'Disabled' ? "false" : "true"; ?>;
-		var blog_page = 0;
-		var project_page = 0;
-		var slider_interval = null;
-    </script>
     <?php if(get_field("custom_css","options")): ?>
         <style type="text/css">
             <?php the_field("custom_css","options"); ?>
@@ -34,6 +25,14 @@
         </script>
     <?php endif; ?>
     <link href="<?php echo get_stylesheet_directory_uri();?>/style.min.css" rel="stylesheet">
+    <script type="text/javascript">
+        var um_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
+        var home_columns_animation_delay = 200;
+        var ajax_site = <?php echo get_field("ajax_site","options") == 'Disabled' ? "false" : "true"; ?>;
+        var blog_page = 0;
+        var project_page = 0;
+        var slider_interval = null;
+    </script>
 </head>
 <body <?php body_class(); ?> >
 <?php if(get_field("ajax_site","options") != 'Disabled'): ?>
@@ -67,4 +66,4 @@
 <!--Open Inner Content-->
 <div id="inner-content">
 <?php endif; ?>
-<title><?php bloginfo('name'); ?> | <?php if(is_home() || is_front_page()){ bloginfo("description"); } wp_title("",true,""); ?></title>
+<!--<title>--><?php //bloginfo('name'); ?><!-- | --><?php //if(is_home() || is_front_page()){ bloginfo("description"); } wp_title("",true,""); ?><!--</title>-->
