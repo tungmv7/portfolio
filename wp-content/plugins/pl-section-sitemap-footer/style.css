@@ -1,0 +1,37 @@
+.pl-sitemap-footer .sitemap-menu ul {
+  padding: 0;
+}
+.pl-sitemap-footer .sitemap-menu ul li {
+  display: block;
+}
+.pl-sitemap-footer .sitemap-menu ul li a {
+  line-height: 1.25em;
+  padding: .2em 0;
+  font-size: .8em;
+}
+.pl-sitemap-footer .pl-sitemap-footer-top {
+  padding: 1.5em 0;
+}
+.pl-sitemap-footer .pl-sitemap-footer-sub {
+  font-size: .75em;
+  padding: 1.5em 0;
+  border-top-style: solid;
+  border-top-width: 1px;
+  margin-top: 1.5em;
+}
+.pl-sitemap-footer .pl-sitemap-footer-sub .terms {
+  text-align: right;
+}
+.pl-sitemap-footer .iconlist {
+  margin: .5em 0;
+}
+.pl-sitemap-footer .iconlist a {
+  color: inherit;
+  margin-right: .5em;
+  display: inline-block;
+  font-size: 1.2em;
+  opacity: .5;
+}
+.pl-sitemap-footer .iconlist a:hover {
+  opacity: 1;
+}

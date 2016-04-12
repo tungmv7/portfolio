@@ -1,0 +1,1439 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Platform 5 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Platform 5 5.0.134\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pl-platform\n"
+"POT-Creation-Date: 2016-04-06 19:13:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: engine/lib/adminbar.php:54
+msgid "Page Saved"
+msgstr ""
+
+#: engine/lib/adminbar.php:78 engine/lib/i18n.php:91
+msgid "Page Editor"
+msgstr ""
+
+#: engine/lib/adminbar.php:89
+msgid "Turn Off"
+msgstr ""
+
+#: engine/lib/adminbar.php:109
+msgid "No Title"
+msgstr ""
+
+#: engine/lib/ajax.medialib.php:189
+msgid "Select This For Option"
+msgstr ""
+
+#: engine/lib/ajax.medialib.php:211
+msgid "Your Media Library"
+msgstr ""
+
+#: engine/lib/ajax.upload.php:71
+msgid "Unsupported file type!"
+msgstr ""
+
+#: engine/lib/ajax.upload.php:76
+msgid "Upload Error: %s"
+msgstr ""
+
+#: engine/lib/forms.php:561
+msgid "You don't have the account permissions to do this."
+msgstr ""
+
+#: engine/lib/forms.php:562
+msgid "The form was submitted. Thank you!"
+msgstr ""
+
+#: engine/lib/functions.php:204
+msgid "<i class=\"pl-icon pl-icon-cog\"></i> View Global Settings"
+msgstr ""
+
+#: engine/lib/functions.php:207
+msgid "This section uses global settings set in your PageLines settings panel."
+msgstr ""
+
+#: engine/lib/functions.php:214
+msgid ""
+"<p>Add linked icons using slug/url pairs.</p><p>Add each on a new line. "
+"<br/><strong>Format:</strong><br/> [icon slug] [link "
+"url]</p><p/><strong>Example:</strong><br/> facebook "
+"http://facebook.com/you</p> <p>Use <a "
+"href=\"https://fortawesome.github.io/Font-Awesome/icons/\">Font Awesome</a> "
+"to get the icon slug.</p>"
+msgstr ""
+
+#: engine/lib/functions.php:256
+msgid "Select Menu"
+msgstr ""
+
+#: engine/lib/functions.php:263
+msgid "Show Search?"
+msgstr ""
+
+#: engine/lib/functions.php:271
+msgid "Button / Link"
+msgstr ""
+
+#: engine/lib/functions.php:291
+msgid "2 of 12 Columns"
+msgstr ""
+
+#: engine/lib/functions.php:292 engine/sections/widgets/widgets.php:42
+msgid "3 of 12 Columns"
+msgstr ""
+
+#: engine/lib/functions.php:293 engine/sections/widgets/widgets.php:43
+msgid "4 of 12 Columns"
+msgstr ""
+
+#: engine/lib/functions.php:294 engine/sections/widgets/widgets.php:44
+msgid "6 of 12 Columns"
+msgstr ""
+
+#: engine/lib/functions.php:295
+msgid "12 of 12 Columns"
+msgstr ""
+
+#: engine/lib/functions.php:330
+msgid "Text/Element Color Scheme"
+msgstr ""
+
+#: engine/lib/functions.php:334 engine/lib/functions.php:965
+#: engine/lib/i18n.php:61
+msgid "Default"
+msgstr ""
+
+#: engine/lib/functions.php:335
+msgid "White"
+msgstr ""
+
+#: engine/lib/functions.php:336
+msgid "Black"
+msgstr ""
+
+#: engine/lib/functions.php:555
+msgid "Button URL"
+msgstr ""
+
+#: engine/lib/functions.php:561
+msgid "Button Text"
+msgstr ""
+
+#: engine/lib/functions.php:567
+msgid "Button Color"
+msgstr ""
+
+#: engine/lib/functions.php:573
+msgid "Button Size"
+msgstr ""
+
+#: engine/lib/functions.php:579
+msgid "Open New Tab?"
+msgstr ""
+
+#: engine/lib/functions.php:632
+msgid " Content Wrap"
+msgstr ""
+
+#: engine/lib/functions.php:634
+msgid "Wrap: Content Width"
+msgstr ""
+
+#: engine/lib/functions.php:635
+msgid "Unwrapped: Full Width"
+msgstr ""
+
+#: engine/lib/functions.php:964
+msgid "Clear"
+msgstr ""
+
+#: engine/lib/functions.php:966
+msgid "Select Color"
+msgstr ""
+
+#: engine/lib/functions.php:1873 engine/lib/functions.php:1889
+msgid "Admin Notice:"
+msgstr ""
+
+#: engine/lib/functions.php:1874
+msgid "Missing section at this location with ID"
+msgstr ""
+
+#: engine/lib/functions.php:1890
+msgid "The %s region has been disabled."
+msgstr ""
+
+#: engine/lib/functions.php:2062
+msgid "Built With PageLines for WordPress"
+msgstr ""
+
+#: engine/lib/functions.php:2257
+msgid "No Animation"
+msgstr ""
+
+#: engine/lib/functions.php:2258
+msgid "Fade"
+msgstr ""
+
+#: engine/lib/functions.php:2259
+msgid "Scale"
+msgstr ""
+
+#: engine/lib/functions.php:2260
+msgid "From Left"
+msgstr ""
+
+#: engine/lib/functions.php:2261
+msgid "From Right"
+msgstr ""
+
+#: engine/lib/functions.php:2262
+msgid "From Bottom"
+msgstr ""
+
+#: engine/lib/functions.php:2263
+msgid "From Top"
+msgstr ""
+
+#: engine/lib/functions.php:2417
+msgid "Blog"
+msgstr ""
+
+#: engine/lib/functions.php:2418 engine/lib/functions.php:2871
+#: engine/lib/functions.php:3103
+msgid "Search"
+msgstr ""
+
+#: engine/lib/functions.php:2419
+msgid "Category"
+msgstr ""
+
+#: engine/lib/functions.php:2420
+msgid "Tag"
+msgstr ""
+
+#: engine/lib/functions.php:2421
+msgid "Author"
+msgstr ""
+
+#: engine/lib/functions.php:2422
+msgid "Archive"
+msgstr ""
+
+#: engine/lib/functions.php:2423
+msgid "404 Error!"
+msgstr ""
+
+#: engine/lib/functions.php:2437
+msgid "Currently viewing the category:"
+msgstr ""
+
+#: engine/lib/functions.php:2441
+msgid "Showing search results for"
+msgstr ""
+
+#: engine/lib/functions.php:2445
+msgid "Currently viewing the tag:"
+msgstr ""
+
+#: engine/lib/functions.php:2453
+msgid "Posts by:"
+msgstr ""
+
+#: engine/lib/functions.php:2455
+msgid "From the daily archives:"
+msgstr ""
+
+#: engine/lib/functions.php:2457
+msgid "From the monthly archives:"
+msgstr ""
+
+#: engine/lib/functions.php:2459
+msgid "From the yearly archives:"
+msgstr ""
+
+#: engine/lib/functions.php:2474
+msgid "Viewing archives for "
+msgstr ""
+
+#: engine/lib/functions.php:2783
+msgid "This sidebar"
+msgstr ""
+
+#: engine/lib/functions.php:2823
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine/lib/functions.php:2831
+msgid "<span class='meta-nav'>&larr;</span> Older Comments"
+msgstr ""
+
+#: engine/lib/functions.php:2832
+msgid "Newer Comments <span class='meta-nav'>&rarr;</span>"
+msgstr ""
+
+#: engine/lib/functions.php:2917
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: engine/lib/functions.php:2920
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: engine/lib/functions.php:2956 engine/sections/widgets/widgets.php:31
+msgid "Select Sidebar"
+msgstr ""
+
+#: engine/lib/functions.php:2957 engine/sections/widgets/widgets.php:32
+msgid ""
+"Select the widgetized area you would like to use with this instance of "
+"Widgetizer."
+msgstr ""
+
+#: engine/lib/functions.php:3102
+msgid "Post"
+msgstr ""
+
+#: engine/lib/functions.php:3149
+msgid "Notice"
+msgstr ""
+
+#: engine/lib/i18n.php:31
+msgid "Add a custom name for this section."
+msgstr ""
+
+#: engine/lib/i18n.php:32
+msgid "Add Sections To Page"
+msgstr ""
+
+#: engine/lib/i18n.php:33
+msgid "Additional Section Classes"
+msgstr ""
+
+#: engine/lib/i18n.php:34 lib/settings.php:157
+msgid "Advanced"
+msgstr ""
+
+#: engine/lib/i18n.php:35
+msgid "All of Type"
+msgstr ""
+
+#: engine/lib/i18n.php:36
+msgid "Are You Sure?"
+msgstr ""
+
+#: engine/lib/i18n.php:37
+msgid "Background Advanced"
+msgstr ""
+
+#: engine/lib/i18n.php:38
+msgid "Background and Color"
+msgstr ""
+
+#: engine/lib/i18n.php:39
+msgid "Background Color"
+msgstr ""
+
+#: engine/lib/i18n.php:40
+msgid "Background Cover"
+msgstr ""
+
+#: engine/lib/i18n.php:41
+msgid "Background Image"
+msgstr ""
+
+#: engine/lib/i18n.php:42
+msgid "Background Overlay"
+msgstr ""
+
+#: engine/lib/i18n.php:43
+msgid "Background Position"
+msgstr ""
+
+#: engine/lib/i18n.php:44
+msgid "Background Size"
+msgstr ""
+
+#: engine/lib/i18n.php:45
+msgid "Background Tile"
+msgstr ""
+
+#: engine/lib/i18n.php:46
+msgid "Background Video"
+msgstr ""
+
+#: engine/lib/i18n.php:47
+msgid "Basic"
+msgstr ""
+
+#: engine/lib/i18n.php:48
+msgid "Carousel"
+msgstr ""
+
+#: engine/lib/i18n.php:49
+msgid "Center"
+msgstr ""
+
+#: engine/lib/i18n.php:50
+msgid "Clone"
+msgstr ""
+
+#: engine/lib/i18n.php:51
+msgid "Cols"
+msgstr ""
+
+#: engine/lib/i18n.php:52
+msgid "Columns"
+msgstr ""
+
+#: engine/lib/i18n.php:53
+msgid "of 12 Columns"
+msgstr ""
+
+#: engine/lib/i18n.php:54
+msgid "Components"
+msgstr ""
+
+#: engine/lib/i18n.php:55
+msgid "Contain"
+msgstr ""
+
+#: engine/lib/i18n.php:56
+msgid "Content Formats"
+msgstr ""
+
+#: engine/lib/i18n.php:57
+msgid "Content Height / Width"
+msgstr ""
+
+#: engine/lib/i18n.php:58
+msgid "Cover"
+msgstr ""
+
+#: engine/lib/i18n.php:59
+msgid "Current Page Only"
+msgstr ""
+
+#: engine/lib/i18n.php:60
+msgid "Dark Text"
+msgstr ""
+
+#: engine/lib/i18n.php:62
+msgid "Delete Section..."
+msgstr ""
+
+#: engine/lib/i18n.php:63
+msgid "Delete"
+msgstr ""
+
+#: engine/lib/i18n.php:64
+msgid "Edit Sets"
+msgstr ""
+
+#: engine/lib/i18n.php:65 lib/shortcodes.php:760
+msgid "Edit"
+msgstr ""
+
+#: engine/lib/i18n.php:66
+msgid "Font Color"
+msgstr ""
+
+#: engine/lib/i18n.php:67
+msgid "Font Size and Alignment"
+msgstr ""
+
+#: engine/lib/i18n.php:68
+msgid "Font Size"
+msgstr ""
+
+#: engine/lib/i18n.php:69
+msgid "Gallery"
+msgstr ""
+
+#: engine/lib/i18n.php:70
+msgid "Grid and Sizing"
+msgstr ""
+
+#: engine/lib/i18n.php:71
+msgid "Grid Controls"
+msgstr ""
+
+#: engine/lib/i18n.php:72
+msgid "Height"
+msgstr ""
+
+#: engine/lib/i18n.php:73
+msgid "Hide On Page(s)"
+msgstr ""
+
+#: engine/lib/i18n.php:74
+msgid "Hidden"
+msgstr ""
+
+#: engine/lib/i18n.php:75
+msgid ""
+"Hide this section on certain pages by adding their IDs here separated by a "
+"comma"
+msgstr ""
+
+#: engine/lib/i18n.php:76
+msgid "Layout / Containers"
+msgstr ""
+
+#: engine/lib/i18n.php:77
+msgid "Left"
+msgstr ""
+
+#: engine/lib/i18n.php:78
+msgid "Light Text"
+msgstr ""
+
+#: engine/lib/i18n.php:79
+msgid "Margin"
+msgstr ""
+
+#: engine/lib/i18n.php:80
+msgid "Max Width (in px)"
+msgstr ""
+
+#: engine/lib/i18n.php:81
+msgid "Min Height (in vw)"
+msgstr ""
+
+#: engine/lib/i18n.php:82
+msgid "Navigation / Menus"
+msgstr ""
+
+#: engine/lib/i18n.php:83
+msgid "No Custom Options Added."
+msgstr ""
+
+#: engine/lib/i18n.php:84
+msgid "No Custom Options"
+msgstr ""
+
+#: engine/lib/i18n.php:85
+msgid "No Tile"
+msgstr ""
+
+#: engine/lib/i18n.php:86
+msgid "None"
+msgstr ""
+
+#: engine/lib/i18n.php:87
+msgid "Offset"
+msgstr ""
+
+#: engine/lib/i18n.php:88
+msgid "of 12 Offsets"
+msgstr ""
+
+#: engine/lib/i18n.php:89
+msgid "Padding / Margin"
+msgstr ""
+
+#: engine/lib/i18n.php:90
+msgid "Padding"
+msgstr ""
+
+#: engine/lib/i18n.php:92
+msgid "Page Layout"
+msgstr ""
+
+#: engine/lib/i18n.php:93
+msgid "Reference"
+msgstr ""
+
+#: engine/lib/i18n.php:94
+msgid "Relative to Base"
+msgstr ""
+
+#: engine/lib/i18n.php:95
+msgid "This will remove this section and its settings from this page."
+msgstr ""
+
+#: engine/lib/i18n.php:96
+msgid "Right"
+msgstr ""
+
+#: engine/lib/i18n.php:97 lib/ui.php:209
+msgid "Save Changes"
+msgstr ""
+
+#: engine/lib/i18n.php:98
+msgid "Scope"
+msgstr ""
+
+#: engine/lib/i18n.php:99
+msgid "Section Copy / Paste"
+msgstr ""
+
+#: engine/lib/i18n.php:100
+msgid "Use this ID in CSS/JS to target this specific section."
+msgstr ""
+
+#: engine/lib/i18n.php:101
+msgid "Section Info"
+msgstr ""
+
+#: engine/lib/i18n.php:102
+msgid "Seperate classes with a space"
+msgstr ""
+
+#: engine/lib/i18n.php:103
+msgid "Show in Editor"
+msgstr ""
+
+#: engine/lib/i18n.php:104
+msgid "Show"
+msgstr ""
+
+#: engine/lib/i18n.php:105
+msgid "Size and Scroll Effect"
+msgstr ""
+
+#: engine/lib/i18n.php:106
+msgid "Sliders / Features"
+msgstr ""
+
+#: engine/lib/i18n.php:107 lib/settings.php:77
+msgid "Social / Local"
+msgstr ""
+
+#: engine/lib/i18n.php:108
+msgid "Taxonomy Archive"
+msgstr ""
+
+#: engine/lib/i18n.php:109
+msgid "Text/Element Alignment"
+msgstr ""
+
+#: engine/lib/i18n.php:110
+msgid "Text / Element Base Color"
+msgstr ""
+
+#: engine/lib/i18n.php:111
+msgid "Tile Horizontal"
+msgstr ""
+
+#: engine/lib/i18n.php:112
+msgid "Tile Vertical"
+msgstr ""
+
+#: engine/lib/i18n.php:113
+msgid "Tile"
+msgstr ""
+
+#: engine/lib/i18n.php:114
+msgid "Using a Theme"
+msgstr ""
+
+#: engine/lib/i18n.php:115
+msgid "This region is disabled"
+msgstr ""
+
+#: engine/lib/i18n.php:116
+msgid "Utilities"
+msgstr ""
+
+#: engine/lib/i18n.php:117
+msgid "Widgets / Sidebar"
+msgstr ""
+
+#: engine/lib/i18n.php:118
+msgid "Window Height"
+msgstr ""
+
+#: engine/lib/page.php:505
+msgid "(No Title)"
+msgstr ""
+
+#: engine/lib/page.php:510
+msgid "Home Page"
+msgstr ""
+
+#: engine/lib/page.php:573
+msgid "Search: "
+msgstr ""
+
+#: engine/lib/sections.class.php:245
+msgid "is hidden or returned no output"
+msgstr ""
+
+#: engine/lib/site.php:113
+msgid "Header/Footer"
+msgstr ""
+
+#: engine/lib/site.php:120
+msgid "Disable header output on this page"
+msgstr ""
+
+#: engine/lib/site.php:121 engine/lib/site.php:128
+msgid "No sections will be rendered in this region."
+msgstr ""
+
+#: engine/lib/site.php:127
+msgid "Disable footer output on this page"
+msgstr ""
+
+#: engine/sections/button/button.php:21
+msgid "Button Setup"
+msgstr ""
+
+#: engine/sections/button/button.php:24
+msgid "Click me"
+msgstr ""
+
+#: engine/sections/image/image.php:23
+msgid "Image"
+msgstr ""
+
+#: engine/sections/image/image.php:29
+msgid "Alt Text"
+msgstr ""
+
+#: engine/sections/image/image.php:33
+msgid "Image Width / Height"
+msgstr ""
+
+#: engine/sections/image/image.php:40
+msgid "Height (vw)"
+msgstr ""
+
+#: engine/sections/image/image.php:46
+msgid "Width (vw)"
+msgstr ""
+
+#: engine/sections/image/image.php:53
+msgid "Link URL"
+msgstr ""
+
+#: engine/sections/image/image.php:58
+msgid "Open in new window?"
+msgstr ""
+
+#: engine/sections/menus/menus.php:22
+msgid "Configuration"
+msgstr ""
+
+#: engine/sections/menus/menus.php:28
+msgid "Logo Size / Height"
+msgstr ""
+
+#: engine/sections/menus/menus.php:41
+msgid "Menu Title"
+msgstr ""
+
+#: engine/sections/menus/menus.php:42
+msgid "This will show if no logo is set."
+msgstr ""
+
+#: engine/sections/menus/menus.php:45
+msgid "Menu Logo/Title URL"
+msgstr ""
+
+#: engine/sections/menus/menus.php:49
+msgid "Fill menu space? (logo left, menu right)"
+msgstr ""
+
+#: engine/sections/menus/menus.php:57
+msgid "Mobile Toggle"
+msgstr ""
+
+#: engine/sections/menus/menus.php:62
+msgid "Use Mobile Toggle?"
+msgstr ""
+
+#: engine/sections/menus/menus.php:67
+msgid "Mobile Toggle Title"
+msgstr ""
+
+#: engine/sections/menus/menus.php:81
+msgid " Section"
+msgstr ""
+
+#: engine/sections/widgets/widgets.php:37
+msgid "Columns Per Widget (12 Col Grid)"
+msgstr ""
+
+#: engine/sections/widgets/widgets.php:41
+msgid "Sidebar (Full Width)"
+msgstr ""
+
+#: engine/sections/widgets/widgets.php:113
+msgid "Latest Posts"
+msgstr ""
+
+#: engine/sections/widgets/widgets.php:119
+msgid "Top Categories"
+msgstr ""
+
+#: engine/sections/widgets/widgets.php:124
+msgid "Recent Comments"
+msgstr ""
+
+#: engine/sections/widgets/widgets.php:169
+msgid "on"
+msgstr ""
+
+#: lib/account.php:57
+msgid "My Account"
+msgstr ""
+
+#: lib/account.php:59
+msgid "Refresh"
+msgstr ""
+
+#: lib/account.php:61
+msgid "Disconnect"
+msgstr ""
+
+#: lib/account.php:66
+msgid "PageLines Account"
+msgstr ""
+
+#: lib/account.php:68
+msgid "Site Connected As"
+msgstr ""
+
+#: lib/account.php:70
+msgid "Member Since"
+msgstr ""
+
+#: lib/account.php:94
+msgid "Free"
+msgstr ""
+
+#: lib/account.php:95
+msgid "Only free features and extensions are available."
+msgstr ""
+
+#: lib/account.php:103
+msgid "Activate Pro "
+msgstr ""
+
+#: lib/account.php:107
+msgid "<strong>Get License</strong>"
+msgstr ""
+
+#: lib/account.php:115
+msgid "Professional"
+msgstr ""
+
+#: lib/account.php:116
+msgid "All features are available. Yay!"
+msgstr ""
+
+#: lib/account.php:118
+msgid ""
+"<p>(<strong>Localhost and at least one pro license detected in "
+"account.</strong>)</p>"
+msgstr ""
+
+#: lib/account.php:121 lib/settings.php:416
+msgid "Install New Extensions"
+msgstr ""
+
+#: lib/account.php:126
+msgid "Grandfathered"
+msgstr ""
+
+#: lib/account.php:136
+msgid "There are no Pro licenses available in your account."
+msgstr ""
+
+#: lib/account.php:143
+msgid "Learn More"
+msgstr ""
+
+#: lib/account.php:148
+msgid "PageLines Version"
+msgstr ""
+
+#: lib/account.php:160
+msgid "slot"
+msgid_plural "slots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/account.php:165
+msgid "Switching Accounts"
+msgstr ""
+
+#: lib/extend.php:43
+msgid "Installing Selected Products"
+msgstr ""
+
+#: lib/extend.php:183
+msgid "PageLines Extension Engine"
+msgstr ""
+
+#: lib/extend.php:196
+msgid "New &amp; Featured"
+msgstr ""
+
+#: lib/extend.php:197
+msgid "New &amp; Featured Extensions"
+msgstr ""
+
+#: lib/extend.php:201 lib/extend.php:202
+msgid "Most Downloads"
+msgstr ""
+
+#: lib/extend.php:206
+msgid "Top Pro"
+msgstr ""
+
+#: lib/extend.php:207
+msgid "Top Pro Extensions"
+msgstr ""
+
+#: lib/extend.php:211
+msgid "Top Free"
+msgstr ""
+
+#: lib/extend.php:212
+msgid "Top Free Extensions"
+msgstr ""
+
+#: lib/extend.php:216
+msgid "Sections"
+msgstr ""
+
+#: lib/extend.php:217
+msgid "Framework Sections"
+msgstr ""
+
+#: lib/extend.php:221
+msgid "Themes"
+msgstr ""
+
+#: lib/extend.php:222
+msgid "Framework Themes"
+msgstr ""
+
+#: lib/extend.php:226
+msgid "Plugins"
+msgstr ""
+
+#: lib/extend.php:227
+msgid "Framework Plugins"
+msgstr ""
+
+#: lib/extend.php:231
+msgid "3rd Party"
+msgstr ""
+
+#: lib/extend.php:232
+msgid "3rd Party Developers"
+msgstr ""
+
+#: lib/extend.php:236
+msgid "My favorites"
+msgstr ""
+
+#: lib/extend.php:237
+msgid "favorite Addons"
+msgstr ""
+
+#: lib/extend.php:460 lib/extend.php:508 lib/settings.php:365
+#: pl-platform.php:324
+msgid "Install"
+msgstr ""
+
+#: lib/extend.php:468
+msgid "Pro Needed"
+msgstr ""
+
+#: lib/extend.php:477
+msgid "Update to"
+msgstr ""
+
+#: lib/extend.php:484
+msgid "Installed"
+msgstr ""
+
+#: lib/extend.php:493
+msgid "Symlink"
+msgstr ""
+
+#: lib/extend.php:501
+msgid "Needs Framework Theme"
+msgstr ""
+
+#: lib/oauth.php:361
+msgid "Platform 5 Connection Issue"
+msgstr ""
+
+#: lib/oauth.php:366
+msgid "Connection FAQ"
+msgstr ""
+
+#: lib/oauth.php:370
+msgid ""
+"The server you are hosted on uses a very old version of CURL and / or "
+"OpenSSL, the library used to connect to other servers.<br />Please see <a "
+"href='http://kb.yoast.com/article/263-update-errors-with-certificate-"
+"subject-name'>This link</a> for more information.<br />To connect to "
+"PageLines insecurly you can add this to wp-config.php, please only do this "
+"as a last resort.<br /><kbd>define( 'PL_SSL_NO_VERIFY', true );"
+msgstr ""
+
+#: lib/oauth.php:372
+msgid "SSL Issues"
+msgstr ""
+
+#: lib/settings.php:39
+msgid "PageLines Settings"
+msgstr ""
+
+#: lib/settings.php:58
+msgid "Dashboard"
+msgstr ""
+
+#: lib/settings.php:82
+msgid "Sitewide Facebook Username"
+msgstr ""
+
+#: lib/settings.php:87
+msgid "Sitewide Twitter Username"
+msgstr ""
+
+#: lib/settings.php:92
+msgid "Sitewide Instagram"
+msgstr ""
+
+#: lib/settings.php:93 lib/settings.php:225
+msgid ""
+"Your Instagram API access token.<br/> <a "
+"href=\"http://instagram.pixelunion.net/\" target=\"_blank\">Look it up "
+"here</a>."
+msgstr ""
+
+#: lib/settings.php:99
+msgid "Instagram Access Token"
+msgstr ""
+
+#: lib/settings.php:105
+msgid "Instagram Username"
+msgstr ""
+
+#: lib/settings.php:112
+msgid "Sitewide Github Username"
+msgstr ""
+
+#: lib/settings.php:127
+msgid "Header Scripts"
+msgstr ""
+
+#: lib/settings.php:128
+msgid "Enter Header HTML/JS"
+msgstr ""
+
+#: lib/settings.php:140
+msgid "Pro Options"
+msgstr ""
+
+#: lib/settings.php:147
+msgid "Remove PageLines Link Credit?"
+msgstr ""
+
+#: lib/settings.php:192
+msgid "PageLines Info"
+msgstr ""
+
+#: lib/settings.php:197
+msgid "Company Name"
+msgstr ""
+
+#: lib/settings.php:203
+msgid "Company Website URL"
+msgstr ""
+
+#: lib/settings.php:209
+msgid "Your Position / Role"
+msgstr ""
+
+#: lib/settings.php:214
+msgid "Your Facebook Username"
+msgstr ""
+
+#: lib/settings.php:219
+msgid "Your Instagram Username"
+msgstr ""
+
+#: lib/settings.php:224
+msgid "Your Instagram Token"
+msgstr ""
+
+#: lib/settings.php:230
+msgid "Your Github Username"
+msgstr ""
+
+#: lib/settings.php:235
+msgid "Your Twitter Username"
+msgstr ""
+
+#: lib/settings.php:241
+msgid "Your Home City"
+msgstr ""
+
+#: lib/settings.php:246
+msgid "Your Home Country"
+msgstr ""
+
+#: lib/settings.php:263
+msgid "<span class=\"subtle\">Next Step:</span> Add PageLines Account"
+msgstr ""
+
+#: lib/settings.php:267
+msgid "Add Your PageLines.com Account"
+msgstr ""
+
+#: lib/settings.php:269
+msgid "Needed for one click install, upgrades and support."
+msgstr ""
+
+#: lib/settings.php:272
+msgid "Add"
+msgstr ""
+
+#: lib/settings.php:279
+msgid "<span class=\"subtle\">Next Step:</span> Install Extensions"
+msgstr ""
+
+#: lib/settings.php:283
+msgid "Get PageLines Extensions"
+msgstr ""
+
+#: lib/settings.php:285
+msgid "Platform is extension based, go and install some extensions."
+msgstr ""
+
+#: lib/settings.php:288 lib/settings.php:383
+msgid "Extension Engine"
+msgstr ""
+
+#: lib/settings.php:295
+msgid "<span class=\"subtle\">Next Step:</span> Upgrade to Pro Version"
+msgstr ""
+
+#: lib/settings.php:299
+msgid "Get the most from PageLines with Pro."
+msgstr ""
+
+#: lib/settings.php:301
+msgid ""
+"Get all pro extensions plus more every month. Also updates, options &amp; "
+"support."
+msgstr ""
+
+#: lib/settings.php:316
+msgid "Get License"
+msgstr ""
+
+#: lib/settings.php:320 pl-platform.php:310
+msgid "Activate Pro"
+msgstr ""
+
+#: lib/settings.php:350
+msgid "<span class=\"subtle\">Tip:</span> Use PageLines Framework"
+msgstr ""
+
+#: lib/settings.php:354
+msgid "Use PageLines Framework"
+msgstr ""
+
+#: lib/settings.php:356
+msgid "PageLines Framework is optimized for use with PageLines Platform."
+msgstr ""
+
+#: lib/settings.php:359
+msgid ""
+"It is fully-responsive, has a ton of options, and has support for child "
+"themes, templates and more."
+msgstr ""
+
+#: lib/settings.php:368
+msgid "Activate"
+msgstr ""
+
+#: lib/settings.php:388
+msgid "Welcome to PageLines"
+msgstr ""
+
+#: lib/settings.php:389
+msgid ""
+"Congratulations! You're running PageLines. PageLines adds insanely-fast "
+"editing and customization tools to your site."
+msgstr ""
+
+#: lib/settings.php:397
+msgid "What can you do with PageLines? Everything."
+msgstr ""
+
+#: lib/settings.php:401
+msgid "Quick Start: \"Insanely Fast Design &amp; Editing\""
+msgstr ""
+
+#: lib/settings.php:403
+msgid ""
+"Quickly learn how to customize in real time with no coding, debugging or "
+"frustration."
+msgstr ""
+
+#: lib/settings.php:406
+msgid "Quick Start Video"
+msgstr ""
+
+#: lib/settings.php:411
+msgid "Do anything with the extension engine. Really."
+msgstr ""
+
+#: lib/settings.php:413
+msgid "PageLines is built to be extended. Add some with the %s."
+msgstr ""
+
+#: lib/settings.php:421
+msgid "Connect with the community."
+msgstr ""
+
+#: lib/settings.php:423
+msgid ""
+"Join the PageLines community channels for help, updates, and great "
+"conversation."
+msgstr ""
+
+#: lib/settings.php:426
+msgid "Community Overview"
+msgstr ""
+
+#: lib/settings.php:431
+msgid "We love to help."
+msgstr ""
+
+#: lib/settings.php:433
+msgid "Check out the PageLines Forums or documentation resources."
+msgstr ""
+
+#: lib/settings.php:436
+msgid "Support Overview"
+msgstr ""
+
+#: lib/settings.php:441
+msgid "A note from me..."
+msgstr ""
+
+#: lib/settings.php:442
+msgid ""
+"Good luck with your site. We're happy and excited for you. Don't forget "
+"that we're here to help and your feedback is always welcome."
+msgstr ""
+
+#: lib/settings.php:444
+msgid "Sincerely"
+msgstr ""
+
+#: lib/settings.php:446
+msgid "Andrew Powers, Founder"
+msgstr ""
+
+#: lib/shortcodes.php:675
+msgid "Tagged With: "
+msgstr ""
+
+#: lib/shortcodes.php:711
+msgid "Add Comment"
+msgstr ""
+
+#: lib/shortcodes.php:712
+msgid "1 Comment"
+msgstr ""
+
+#: lib/shortcodes.php:713
+msgid "% Comments"
+msgstr ""
+
+#: lib/shortcodes.php:748
+msgid "Post Edit Link"
+msgstr ""
+
+#: lib/shortcodes.php:750
+msgid "Gets a post edit link for the post."
+msgstr ""
+
+#: lib/ui.php:135
+msgid "PageLines Settings Updated!"
+msgstr ""
+
+#: lib/ui.php:297
+msgid "Refresh Items"
+msgstr ""
+
+#: lib/ui.php:317
+msgid "Search Extensions"
+msgstr ""
+
+#: lib/updates.php:151
+msgid "Add PageLines Account"
+msgstr ""
+
+#: lib/updates.php:154
+msgid "You appear to have one or more pending updates for PageLines extensions."
+msgstr ""
+
+#: lib/updates.php:157
+msgid "PageLines Account Missing"
+msgstr ""
+
+#: pl-platform.php:88
+msgid "Docs"
+msgstr ""
+
+#: pl-platform.php:89
+msgid "Support"
+msgstr ""
+
+#: pl-platform.php:103 pl-platform.php:476
+msgid "Settings"
+msgstr ""
+
+#: pl-platform.php:122
+msgid "PageLines Platform"
+msgstr ""
+
+#: pl-platform.php:243
+msgid "Using PageLines Menus and Tools"
+msgstr ""
+
+#: pl-platform.php:244
+msgid ""
+"Use the PageLines logo %s in the admin bar to access PageLines front-end "
+"tools. You will find new sections in the page editor."
+msgstr ""
+
+#: pl-platform.php:246
+msgid "View Page Editor"
+msgstr ""
+
+#: pl-platform.php:261
+msgid "PageLines Setup Step 1: Add Your PageLines Account"
+msgstr ""
+
+#: pl-platform.php:263
+msgid "Welcome! Add your account for one-click extensions and updates."
+msgstr ""
+
+#: pl-platform.php:266
+msgid "Add Your PageLines Account"
+msgstr ""
+
+#: pl-platform.php:280
+msgid "PageLines Setup Step 2: Add First Section or Plugin"
+msgstr ""
+
+#: pl-platform.php:281
+msgid "PageLines is addon based. Install some items with the extension engine."
+msgstr ""
+
+#: pl-platform.php:283
+msgid "Install First Extension"
+msgstr ""
+
+#: pl-platform.php:301
+msgid ""
+"There are %s professional extensions %s active, it is important to pro "
+"activate your site to use them."
+msgstr ""
+
+#: pl-platform.php:303
+msgid "plugin"
+msgid_plural "plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pl-platform.php:307
+msgid "PageLines Pro Activation Required"
+msgstr ""
+
+#: pl-platform.php:321
+msgid "Use PageLines Framework?"
+msgstr ""
+
+#: pl-platform.php:322
+msgid ""
+"PageLines Framework is a simple and beautiful theme optimized for use with "
+"PageLines Platform."
+msgstr ""
+
+#: pl-platform.php:338
+msgid "Success!"
+msgstr ""
+
+#: pl-platform.php:340
+msgid "Your site is successfully connected to PageLines.com"
+msgstr ""
+
+#: pl-platform.php:387
+msgid "Get the most out of PageLines..."
+msgstr ""
+
+#: pl-platform.php:389
+msgid "You are all set up! To get monthly"
+msgstr ""
+
+#: pl-platform.php:390
+msgid "pro"
+msgstr ""
+
+#: pl-platform.php:391
+msgid "extensions, updates, options and support just Pro activate your site."
+msgstr ""
+
+#: pl-platform.php:483
+msgid "Extend"
+msgstr ""
+
+#: pl-platform.php:491
+msgid "Account"
+msgstr ""
+
+#: pl-platform.php:507
+msgid "PageLines Meta Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Platform 5"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An insanely-fast real time design platform for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "account, extend, settings"
+msgstr ""
+
+#: engine/lib/functions.php:2840
+msgctxt "noun"
+msgid "Comment"
+msgstr ""

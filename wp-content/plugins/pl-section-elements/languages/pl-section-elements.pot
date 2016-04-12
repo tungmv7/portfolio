@@ -1,0 +1,121 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section Elements package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Elements 5.0.11\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/pl-section-elements\n"
+"POT-Creation-Date: 2016-03-22 16:43:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-elements.php:34
+msgid "Element Format"
+msgstr ""
+
+#: pl-section-elements.php:36
+msgid "Masthead"
+msgstr ""
+
+#: pl-section-elements.php:37
+msgid "Masthead Reverse"
+msgstr ""
+
+#: pl-section-elements.php:38
+msgid "Hero"
+msgstr ""
+
+#: pl-section-elements.php:39
+msgid "Hero Reverse"
+msgstr ""
+
+#: pl-section-elements.php:40
+msgid "Callout"
+msgstr ""
+
+#: pl-section-elements.php:41
+msgid "Callout Reverse"
+msgstr ""
+
+#: pl-section-elements.php:53
+msgid "Header"
+msgstr ""
+
+#: pl-section-elements.php:58
+msgid "Subheader"
+msgstr ""
+
+#: pl-section-elements.php:63
+msgid "Image"
+msgstr ""
+
+#: pl-section-elements.php:67
+msgid "Image Max Percent Width"
+msgstr ""
+
+#: pl-section-elements.php:73
+msgid "Image Left Margin"
+msgstr ""
+
+#: pl-section-elements.php:84
+msgid "Buttons"
+msgstr ""
+
+#: pl-section-elements.php:87
+msgid "Primary Button"
+msgstr ""
+
+#: pl-section-elements.php:93
+msgid "Secondary Button"
+msgstr ""
+
+#: pl-section-elements.php:102
+msgid "Navigation"
+msgstr ""
+
+#: pl-section-elements.php:107
+msgid "Select Menu"
+msgstr ""
+
+#: pl-section-elements.php:113
+msgid "Other Content"
+msgstr ""
+
+#: pl-section-elements.php:119
+msgid "Paragraph Text"
+msgstr ""
+
+#: pl-section-elements.php:124
+msgid "Media Embed HTML"
+msgstr ""
+
+#: pl-section-elements.php:125
+msgid ""
+"Enter rich media \"embed\" HTML in this field to add videos, etc.. instead "
+"of an image."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Elements"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add simple elements to your page. Text, nav, button, media, etc.."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "formats, component, hero, masthead"
+msgstr ""

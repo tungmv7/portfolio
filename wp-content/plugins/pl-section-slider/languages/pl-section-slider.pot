@@ -1,0 +1,85 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section Flick Slider package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Flick Slider 5.0.8\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/pl-section-slider\n"
+"POT-Creation-Date: 2016-03-22 16:21:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-slider.php:43
+msgid "Setup"
+msgstr ""
+
+#: pl-section-slider.php:48
+msgid "Nav Format"
+msgstr ""
+
+#: pl-section-slider.php:52
+msgid "Both Arrows and Bottom Nav"
+msgstr ""
+
+#: pl-section-slider.php:53
+msgid "Only Bottom Nav"
+msgstr ""
+
+#: pl-section-slider.php:54
+msgid "Only Arrows"
+msgstr ""
+
+#: pl-section-slider.php:55
+msgid "None"
+msgstr ""
+
+#: pl-section-slider.php:57
+msgid "Select Slider Nav"
+msgstr ""
+
+#: pl-section-slider.php:61
+msgid "Height"
+msgstr ""
+
+#: pl-section-slider.php:81
+msgid "Autoplay Time (ms)"
+msgstr ""
+
+#: pl-section-slider.php:93
+msgid "Item Setup"
+msgstr ""
+
+#: pl-section-slider.php:98
+msgid "Background Image"
+msgstr ""
+
+#: pl-section-slider.php:102
+msgid "For high resolution images, min. 2000px wide x 800px tall. (2MB Limit)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Flick Slider"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A responsive, flickable image slider that supports links and text. Make "
+"effortless well-displayed galleries with the Slider extension."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "slider, touch, flickity"
+msgstr ""

@@ -1,0 +1,33 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section Massive package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Massive 5.0.3\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/pl-section-massive\n"
+"POT-Creation-Date: 2016-03-21 22:23:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Massive"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create huge responsive text fields that dynamically size to fit their "
+"container."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "lettering, fonts, responsive, heading, typography, text"
+msgstr ""

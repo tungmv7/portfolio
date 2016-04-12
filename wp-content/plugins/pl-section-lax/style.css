@@ -1,0 +1,29 @@
+.pl-sn-lax > .pl-sn-wrap > .pl-sn-pad {
+  padding: 0;
+}
+.lax-window {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.lax-window .lax-mast {
+  text-align: center;
+  padding: 1.5em 0;
+}
+.lax-window .lax-mast .subhead {
+  margin-bottom: 1em;
+}
+.pl-lax-window {
+  min-height: 400px;
+  background: transparent;
+}

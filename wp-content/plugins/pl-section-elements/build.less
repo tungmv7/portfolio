@@ -1,0 +1,176 @@
+@import "_mixins.less";
+
+
+.pl-sn-elements{
+  text-align: center;
+
+  > .pl-sn-wrap{
+    overflow: hidden;
+  }
+
+  .elements-subheader{
+    font-weight: 300;
+    opacity: .7;
+
+  }
+
+  .format-hero, 
+  .format-hero-flip{
+    .elements-hero{
+      .flex-display();
+
+      .flex-wrap(wrap);
+      .flex-direction(row-reverse);
+      > div{
+        
+        width: 50%; 
+        .flex-display();
+        .flex-direction(column);
+        .justify-content(center);
+        &.elements-media{
+          padding: 0 0 0 2em;
+        }
+        &.elements-head{
+          text-align: left;
+          padding: 0 2em 0 0;
+        }
+      }
+    }
+  }
+  .format-hero-flip{
+    .elements-hero{
+      
+      .flex-direction(row);
+      > div{
+        &.elements-media{
+          padding: 0 2em 0 0;
+        }
+        &.elements-head{
+          text-align: left;
+          padding: 0 0 0 2em;
+        }
+      }
+    }
+    
+  } 
+
+  .format-callout,
+  .format-callout-flip{
+    .elements-head{
+      .flex-display();
+      .flex-wrap(wrap);
+      > div{
+        padding: 0 2em;
+        width: 50%; 
+        .flex-display();
+        .flex-direction(column);
+        .justify-content(center);
+        > *{
+          margin:  0;
+        }
+        &.elements-text{
+          text-align: left;
+          padding-left: 0;
+          
+        }
+        .elements-btns{
+          text-align: right;
+          
+        }
+      }
+    }
+  }
+  .format-callout-flip{
+    .elements-head{
+    
+      .flex-direction(row-reverse);
+      > div {
+        .elements-btns{
+          text-align: center;  
+        }
+      }
+    }
+
+  } 
+
+  .format-masthead-flip{
+    .elements-hero{
+      .flex-display();
+      .flex-direction(column-reverse);
+    }
+  }
+}
+
+.elements-menu{
+  margin: 3em 0;
+}
+.elements-richtext{
+  margin: 2em 0 0;
+}
+
+.elements-media{
+  margin-bottom: 2em;
+}
+
+.elements-btns{
+  margin: 2em -.5em 0;
+  .pl-btn{
+    margin: .5em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pl-sn-elements{
+
+    .format-hero, 
+    .format-hero-flip{
+      .elements-hero{
+
+        .flex-direction(column);
+
+        > div{
+          
+          width: 100%; 
+          &.elements-head, 
+          &.elements-media{
+            text-align: center;
+            padding: 0
+          }
+          
+          
+        }
+      }
+    }
+    
+  }
+} 
+
+@media screen and (max-width: 768px) {
+  .pl-sn-elements{
+
+    .format-callout, 
+    .format-callout-flip{
+      .elements-hero{
+
+        .elements-head{
+          display: block;
+      
+          > div{
+            text-align: center;
+            width: 100%;
+            padding: .5em 0;
+            .elements-btns{
+              text-align: center;
+              a{
+                margin: .5em;
+              }
+            }
+          }
+        }
+        
+      }
+    }
+    
+  }
+} 
+

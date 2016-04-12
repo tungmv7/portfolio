@@ -1,0 +1,68 @@
+.flex-vertical(){
+  .flex-display(); 
+  .flex-direction( column );
+  .justify-content( center ); 
+}
+
+
+.flex(@flex: 1 1 auto) {
+  -webkit-flex: @flex;
+      -ms-flex: @flex;
+          flex: @flex;
+}
+
+// Flexbox display
+// flex or inline-flex
+.flex-display(@display: flex) {
+  display: ~"-webkit-@{display}";
+  display: ~"-moz-@{display}";
+  display: ~"-ms-@{display}box"; // IE10 uses -ms-flexbox
+  display: ~"-ms-@{display}"; // IE11
+  display: @display;
+}
+
+.flex-direction(@direction: row) {
+  -webkit-flex-direction: @direction;
+     -moz-flex-direction: @direction;
+      -ms-flex-direction: @direction;
+          flex-direction: @direction;
+}
+
+.justify-content(@justify: center) {
+  -webkit-justify-content: @justify;
+     -moz-justify-content: @justify;
+      -ms-justify-content: @justify;
+          justify-content: @justify;
+}
+
+.flex-wrap(@wrap: nowrap) {
+  -webkit-flex-wrap: @wrap;
+     -moz-flex-wrap: @wrap;
+      -ms-flex-wrap: @wrap;
+          flex-wrap: @wrap;
+}
+
+.flex-basis(@basis: 100%) {
+  -webkit-flex-basis: @basis;
+     -moz-flex-basis: @basis;
+    -ms-flex-preferred-size: @basis; 
+      -ms-flex-basis: @basis;
+          flex-basis: @basis;
+}
+
+.flex-order(@order: 3) {
+  -webkit-order: @order;
+     -moz-order: @order;
+      -ms-order: @order;
+          order: @order;
+}
+
+.flex-grow(@grow: 0) {
+  -webkit-flex-grow: @grow;
+     -moz-flex-grow: @grow;
+      -ms-flex-grow: @grow;
+          flex-grow: @grow;
+}
+
+
+

@@ -1,0 +1,103 @@
+.pl-hero {
+  font-size: 1.2em;
+}
+.pl-hero .pl-content-pad {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+}
+.pl-hero .pl-hero-media {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.pl-hero .pl-hero-media .center-media {
+  text-align: center;
+  line-height: 1;
+}
+.pl-hero .pl-hero-media img {
+  display: inline-block;
+  max-width: none;
+}
+.pl-hero .pl-section-right {
+  -webkit-flex-direction: row-reverse;
+  -moz-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.pl-hero .pl-section-right .pl-hero-media img {
+  float: right;
+}
+.pl-hero .pl-section-center {
+  display: block;
+  text-align: center;
+}
+.pl-hero .pl-section-center .hero-span {
+  max-width: 100%;
+}
+.pl-hero .pl-section-center .pl-hero-media {
+  text-align: center;
+}
+.pl-hero .pl-section-center .pl-hero-media img {
+  float: none;
+  max-width: 100% !important;
+}
+.hero-span {
+  max-width: 50%;
+  -webkit-flex-basis: 50%;
+  -moz-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  -ms-flex-basis: 50%;
+  flex-basis: 50%;
+}
+.pl-hero-content-wrap {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.pl-hero-content-wrap .pl-hero-content {
+  padding: 4vw;
+}
+@media (max-width: 768px) {
+  .pl-hero .pl-content-pad {
+    display: block;
+  }
+  .pl-hero .pl-content-pad .hero-span {
+    max-width: 100%;
+  }
+  .pl-hero .pl-content-pad .pl-hero-content {
+    text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
+  .pl-hero .pl-content-pad .pl-hero-media {
+    text-align: center;
+  }
+  .pl-hero .pl-content-pad .pl-hero-media img {
+    float: none;
+    width: auto;
+    max-width: 100% !important;
+  }
+}

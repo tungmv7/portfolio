@@ -1,0 +1,57 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section Sitemap Footer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Sitemap Footer 5.0.3\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/pl-section-sitemap-footer\n"
+"POT-Creation-Date: 2016-03-22 16:53:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-sitemap-footer.php:64
+msgid "Title"
+msgstr ""
+
+#: pl-section-sitemap-footer.php:65
+msgid "About "
+msgstr ""
+
+#: pl-section-sitemap-footer.php:69
+msgid "Text description"
+msgstr ""
+
+#: pl-section-sitemap-footer.php:78
+msgid "Terms"
+msgstr ""
+
+#: pl-section-sitemap-footer.php:83
+msgid "Sharing Shortcodes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Sitemap Footer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A robust footer section that allows you to display a sitemap, logo, social "
+"links and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "navigation, footer, menus"
+msgstr ""

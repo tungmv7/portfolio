@@ -1,0 +1,167 @@
+/** Basic Configuration */
+.pl-sharebar{
+  font-size: .8em;
+  line-height: 1.2;
+  .pl-social-icon{
+    margin-right: 2px;
+  }
+  .pl-social-counter{
+
+    padding: 0 10px;
+    cursor: pointer;
+    &.loved{
+      opacity: 1;
+    }
+    &.pl-social-pagelines{
+      text-decoration: none;
+      border-left: none;
+    }
+    &.pl-social-facebook{
+      cursor: pointer!important;
+    }
+  }
+  .txt-wrap{
+    margin: 8px 0 0;
+    opacity: 1;
+  }
+  .txt{
+    padding-top: 5px;
+    display:inline-block;
+    opacity: .5;
+  }
+}
+
+/** Alignment */
+.pl-sn-sharebar{
+
+  text-align: center;
+
+  .pl-alignment-right{
+    text-align: right;
+  }
+  .pl-alignment-left{
+    text-align: left;
+  }
+}
+
+
+/*
+ * @ Social Link Default Sizing
+ **********************************************************************/
+.sl-link{
+  font-size: 22px;
+  line-height: 22px;
+  margin: 0 8px;
+  color: inherit;
+}
+
+
+/*
+ * @ PageLines Karma
+ **********************************************************************/
+.pl-social-counters{
+  
+  .pl-social-counter{
+
+  
+    padding: 0 10px;
+   
+  }
+  
+}
+
+.pl-social-counter{
+  color: inherit;
+  font-family: 'Lato', "helvetica neue", helvetica, arial;
+  font-weight: 600;
+  margin: 1 auto;
+  line-height: 11px;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+
+  &:hover, 
+  &:focus{
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
+  .pl-social-count{
+    opacity:.6;
+    font-size: 11px;
+    vertical-align: middle;
+  }
+  .pl-social-icon{
+    margin-right: 2px;
+
+    font-size: 25px;
+    vertical-align: middle;
+    
+    i{ 
+      
+      display: inline-block; 
+      transition: color .35s;
+    }
+    // .pl-icon-facebook{
+    //   font-size: 20px;
+    // }
+    // .pl-icon-twitter{
+    //   font-size: 22px;
+    //   margin-top: -2px;
+    // }
+    // .pl-icon-linkedin{
+    //   font-size: 20px;
+    //   margin-top: -1px;
+    // }
+    // .pl-icon-pinterest{
+    //   font-size: 22px;
+    //   margin-top: -1px;
+    // }
+  }
+  
+
+  
+}
+
+.pl-social-counter{
+
+  
+  &.hovered,
+  &:hover,
+  &.loved{
+    .pl-social-icon{
+      
+      i{
+        color: rgba(0,0,0,.3);
+
+        &.pl-icon-facebook-square{
+            color: #337eff;
+        }
+        &.pl-icon-twitter-square{
+            color: #50eaf6;
+        }
+        &.pl-icon-linkedin-square{
+            color: #509df6;
+        }
+        &.pl-icon-pinterest-square{
+            color: #ff535b;
+        }
+        &.pl-icon-google-plus-square{
+            color: #DC4E41;
+        }
+      }
+      
+    } 
+  
+  }
+}
+
+.pl-social-counter .pl-social-icon i{
+  color: rgba(0,0,0,.1);
+}
+
+.pl-scheme-light .pl-social-counter .pl-social-icon i{
+  color: rgba(255,255,255,.4);
+}

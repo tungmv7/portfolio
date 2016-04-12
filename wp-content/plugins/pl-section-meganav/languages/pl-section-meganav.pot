@@ -1,0 +1,93 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section MegaNav package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section MegaNav 5.0.12\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/pl-section-meganav\n"
+"POT-Creation-Date: 2016-03-22 17:07:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-meganav.php:34
+msgid " Section"
+msgstr ""
+
+#: pl-section-meganav.php:52 pl-section-meganav.php:57
+msgid "Logo"
+msgstr ""
+
+#: pl-section-meganav.php:62
+msgid "Logo Size / Height"
+msgstr ""
+
+#: pl-section-meganav.php:82
+msgid "Hide logo?"
+msgstr ""
+
+#: pl-section-meganav.php:98
+msgid "Select Menu"
+msgstr ""
+
+#: pl-section-meganav.php:103
+msgid "Show Search?"
+msgstr ""
+
+#: pl-section-meganav.php:108
+msgid "Make sticky on scroll?"
+msgstr ""
+
+#: pl-section-meganav.php:109
+msgid ""
+"The navigation will stick to the top on scroll. Note: since this breaks the "
+"page flow, \"stickyness\" can act strangely in many design situations."
+msgstr ""
+
+#: pl-section-meganav.php:116
+msgid "Megamenus (multi column drop down)"
+msgstr ""
+
+#: pl-section-meganav.php:117
+msgid ""
+"Identify the index number of the navigation items you want to make "
+"megamenus. For example, first on left is 1, second, from left is 2, etc... "
+"Add them in a comma separated list here."
+msgstr ""
+
+#: pl-section-meganav.php:123
+msgid "Drop Down Left"
+msgstr ""
+
+#: pl-section-meganav.php:124
+msgid ""
+"For items towards the right of the screen you may want your drop downs to "
+"the left. Enter the index of the items you would like to drop left here in "
+"a comma separated list."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section MegaNav"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An advanced site navigation that supports drop-downs, full content width "
+"nav panels, sticky nav and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "navigation, sticky"
+msgstr ""

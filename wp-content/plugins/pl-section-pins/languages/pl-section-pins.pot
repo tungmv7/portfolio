@@ -1,0 +1,107 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section Pins package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Pins 5.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pl-section-pins\n"
+"POT-Creation-Date: 2016-03-22 12:55:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-pins.php:61
+msgid "Loading Mode"
+msgstr ""
+
+#: pl-section-pins.php:70
+msgid "Use Infinite Scrolling"
+msgstr ""
+
+#: pl-section-pins.php:71
+msgid "Use Load Posts Link (AJAX)"
+msgstr ""
+
+#: pl-section-pins.php:73
+msgid "Pin Loading Method"
+msgstr ""
+
+#: pl-section-pins.php:74
+msgid ""
+"Use infinite scroll loading to automatically load new pins when users get "
+"to the bottom of the page. Alternatively, you can use a link that users can "
+"click to 'load new pins' into the page."
+msgstr ""
+
+#: pl-section-pins.php:81
+msgid "Pins Post Handling"
+msgstr ""
+
+#: pl-section-pins.php:89
+msgid "Select Featured Image Size"
+msgstr ""
+
+#: pl-section-pins.php:91
+msgid ""
+"Select from a variety of different size and aspect values for your featured "
+"images in posts."
+msgstr ""
+
+#: pl-section-pins.php:98
+msgid "Number of Posts"
+msgstr ""
+
+#: pl-section-pins.php:104
+msgid "Pin Meta Info"
+msgstr ""
+
+#: pl-section-pins.php:105
+msgid "Use shortcodes to customize the meta information for these pins."
+msgstr ""
+
+#: pl-section-pins.php:109
+msgid "Which post type should we use?"
+msgstr ""
+
+#: pl-section-pins.php:120
+msgid "Select Taxonomy Term"
+msgstr ""
+
+#: pl-section-pins.php:128
+msgid "Pins Meta"
+msgstr ""
+
+#: pl-section-pins.php:134
+msgid "Hide Avatar?"
+msgstr ""
+
+#: pl-section-pins.php:139
+msgid "Hide Meta Information?"
+msgstr ""
+
+#: pl-section-pins.php:292
+msgid "Load More Posts"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Pins"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A pins style posts section with infinite scrolling and masonry layout."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "posts, pins, ajax, blog, masonry, infinitescroll"
+msgstr ""

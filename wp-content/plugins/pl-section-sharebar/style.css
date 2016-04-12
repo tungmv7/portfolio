@@ -1,0 +1,122 @@
+/** Basic Configuration */
+.pl-sharebar {
+  font-size: .8em;
+  line-height: 1.2;
+}
+.pl-sharebar .pl-social-icon {
+  margin-right: 2px;
+}
+.pl-sharebar .pl-social-counter {
+  padding: 0 10px;
+  cursor: pointer;
+}
+.pl-sharebar .pl-social-counter.loved {
+  opacity: 1;
+}
+.pl-sharebar .pl-social-counter.pl-social-pagelines {
+  text-decoration: none;
+  border-left: none;
+}
+.pl-sharebar .pl-social-counter.pl-social-facebook {
+  cursor: pointer!important;
+}
+.pl-sharebar .txt-wrap {
+  margin: 8px 0 0;
+  opacity: 1;
+}
+.pl-sharebar .txt {
+  padding-top: 5px;
+  display: inline-block;
+  opacity: .5;
+}
+/** Alignment */
+.pl-sn-sharebar {
+  text-align: center;
+}
+.pl-sn-sharebar .pl-alignment-right {
+  text-align: right;
+}
+.pl-sn-sharebar .pl-alignment-left {
+  text-align: left;
+}
+/*
+ * @ Social Link Default Sizing
+ **********************************************************************/
+.sl-link {
+  font-size: 22px;
+  line-height: 22px;
+  margin: 0 8px;
+  color: inherit;
+}
+/*
+ * @ PageLines Karma
+ **********************************************************************/
+.pl-social-counters .pl-social-counter {
+  padding: 0 10px;
+}
+.pl-social-counter {
+  color: inherit;
+  font-family: 'Lato', "helvetica neue", helvetica, arial;
+  font-weight: 600;
+  margin: 1 auto;
+  line-height: 11px;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.pl-social-counter:hover,
+.pl-social-counter:focus {
+  text-decoration: none;
+  color: inherit;
+}
+.pl-social-counter .pl-social-count {
+  opacity: .6;
+  font-size: 11px;
+  vertical-align: middle;
+}
+.pl-social-counter .pl-social-icon {
+  margin-right: 2px;
+  font-size: 25px;
+  vertical-align: middle;
+}
+.pl-social-counter .pl-social-icon i {
+  display: inline-block;
+  transition: color .35s;
+}
+.pl-social-counter.hovered .pl-social-icon i,
+.pl-social-counter:hover .pl-social-icon i,
+.pl-social-counter.loved .pl-social-icon i {
+  color: rgba(0, 0, 0, 0.3);
+}
+.pl-social-counter.hovered .pl-social-icon i.pl-icon-facebook-square,
+.pl-social-counter:hover .pl-social-icon i.pl-icon-facebook-square,
+.pl-social-counter.loved .pl-social-icon i.pl-icon-facebook-square {
+  color: #337eff;
+}
+.pl-social-counter.hovered .pl-social-icon i.pl-icon-twitter-square,
+.pl-social-counter:hover .pl-social-icon i.pl-icon-twitter-square,
+.pl-social-counter.loved .pl-social-icon i.pl-icon-twitter-square {
+  color: #50eaf6;
+}
+.pl-social-counter.hovered .pl-social-icon i.pl-icon-linkedin-square,
+.pl-social-counter:hover .pl-social-icon i.pl-icon-linkedin-square,
+.pl-social-counter.loved .pl-social-icon i.pl-icon-linkedin-square {
+  color: #509df6;
+}
+.pl-social-counter.hovered .pl-social-icon i.pl-icon-pinterest-square,
+.pl-social-counter:hover .pl-social-icon i.pl-icon-pinterest-square,
+.pl-social-counter.loved .pl-social-icon i.pl-icon-pinterest-square {
+  color: #ff535b;
+}
+.pl-social-counter.hovered .pl-social-icon i.pl-icon-google-plus-square,
+.pl-social-counter:hover .pl-social-icon i.pl-icon-google-plus-square,
+.pl-social-counter.loved .pl-social-icon i.pl-icon-google-plus-square {
+  color: #DC4E41;
+}
+.pl-social-counter .pl-social-icon i {
+  color: rgba(0, 0, 0, 0.1);
+}
+.pl-scheme-light .pl-social-counter .pl-social-icon i {
+  color: rgba(255, 255, 255, 0.4);
+}

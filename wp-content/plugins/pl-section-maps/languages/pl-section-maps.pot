@@ -1,0 +1,74 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the same license as the PageLines Section Maps package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Maps 5.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pl-section-maps\n"
+"POT-Creation-Date: 2016-03-23 17:17:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-maps.php:59
+msgid "Google Maps Configuration"
+msgstr ""
+
+#: pl-section-maps.php:68 pl-section-maps.php:127
+msgid "Latitude"
+msgstr ""
+
+#: pl-section-maps.php:76 pl-section-maps.php:134
+msgid "Longitude"
+msgstr ""
+
+#: pl-section-maps.php:81
+msgid "Map Height"
+msgstr ""
+
+#: pl-section-maps.php:94
+msgid "Pointer Image"
+msgstr ""
+
+#: pl-section-maps.php:96
+msgid "For best results use an image size of 64px x 64px."
+msgstr ""
+
+#: pl-section-maps.php:102
+msgid "Default Map Zoom Level ( default 10)"
+msgstr ""
+
+#: pl-section-maps.php:110
+msgid "Enable Zoom Controls"
+msgstr ""
+
+#: pl-section-maps.php:120
+msgid "Pointer Locations"
+msgstr ""
+
+#: pl-section-maps.php:121
+msgid "Location"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Maps"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Google maps with customizable markers and multiple locations support."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "maps, google, location"
+msgstr ""
