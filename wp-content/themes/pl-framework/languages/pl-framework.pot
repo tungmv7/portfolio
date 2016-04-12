@@ -1,0 +1,624 @@
+# Copyright (C) 2016 PageLines
+# This file is distributed under the GPL.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Framework 5.0.93\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-04-06 19:12:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:8
+msgid "404!"
+msgstr ""
+
+#: 404.php:9
+msgid "Edit 404 Message"
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry, This Page Does not exist."
+msgstr ""
+
+#: 404.php:23
+msgid "Go"
+msgstr ""
+
+#: 404.php:23
+msgid "home"
+msgstr ""
+
+#: 404.php:23
+msgid "or try a search?"
+msgstr ""
+
+#: libs/ops.php:46
+msgid "Maintenance"
+msgstr ""
+
+#: libs/ops.php:49
+msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
+msgstr ""
+
+#: libs/ops.php:70
+msgid "Install Platform 5"
+msgstr ""
+
+#: libs/ops.php:72
+msgid "Activate Platform 5"
+msgstr ""
+
+#: libs/ops.php:76
+msgid "You need PageLines Platform 5"
+msgstr ""
+
+#: libs/ops.php:77
+msgid ""
+"<br />PageLines Framework needs the PageLines Platform plugin.<br />Please "
+"install and activate it now.<br />"
+msgstr ""
+
+#: libs/ops.php:180
+msgid "Notice"
+msgstr ""
+
+#: load.php:253
+msgid "Primary"
+msgstr ""
+
+#: load.php:258
+msgid "Secondary"
+msgstr ""
+
+#: load.php:263
+msgid "Tertiary"
+msgstr ""
+
+#: load.php:283
+msgid "Content"
+msgstr ""
+
+#: load.php:290
+msgid "Post Metabar"
+msgstr ""
+
+#: load.php:291
+msgid ""
+"Configure the meta information that will show below post titles. Use "
+"shortcodes to create dynamic content, such as [post_date].</p>"
+msgstr ""
+
+#: load.php:297
+msgid "Page Title Format"
+msgstr ""
+
+#: load.php:298
+msgid ""
+"Control how page titles are displayed by default. Can be overridden on a "
+"page by page basis."
+msgstr ""
+
+#: load.php:300
+msgid "Hidden"
+msgstr ""
+
+#: load.php:301 load.php:312 load.php:367
+msgid "Center Aligned"
+msgstr ""
+
+#: load.php:302 load.php:313 load.php:368
+msgid "Left Aligned"
+msgstr ""
+
+#: load.php:309
+msgid "Post Title Format"
+msgstr ""
+
+#: load.php:310
+msgid ""
+"Control how post titles are displayed by default. Can be overridden on a "
+"page by page basis."
+msgstr ""
+
+#: load.php:320
+msgid "Select Featured Image Size"
+msgstr ""
+
+#: load.php:321
+msgid "Featured Image Size"
+msgstr ""
+
+#: load.php:322
+msgid ""
+"Select from a variety of different size and aspect values for your featured "
+"images in posts."
+msgstr ""
+
+#: load.php:338
+msgid "Page Title"
+msgstr ""
+
+#: load.php:344
+msgid "Title (Override)"
+msgstr ""
+
+#: load.php:345
+msgid "Overrides the default WP page title."
+msgstr ""
+
+#: load.php:351
+msgid "Sub Title"
+msgstr ""
+
+#: load.php:352
+msgid "Shows underneath the page title"
+msgstr ""
+
+#: load.php:358
+msgid "Title Icon"
+msgstr ""
+
+#: load.php:359
+msgid "Adds an icon to the page."
+msgstr ""
+
+#: load.php:365
+msgid "Title Format"
+msgstr ""
+
+#: load.php:370
+msgid "Select the format style of page title."
+msgstr ""
+
+#: load.php:376
+msgid "Hide Page Title?"
+msgstr ""
+
+#: load.php:377
+msgid "Hide the title area on this page."
+msgstr ""
+
+#: load.php:398
+msgid "Post Formats"
+msgstr ""
+
+#: load.php:404
+msgid "Quote Text"
+msgstr ""
+
+#: load.php:405
+msgid "When using quote post format, enter the quote text here."
+msgstr ""
+
+#: load.php:411
+msgid "Link URL"
+msgstr ""
+
+#: load.php:412
+msgid "Enter link URL here"
+msgstr ""
+
+#: load.php:417
+msgid "Video Format"
+msgstr ""
+
+#: load.php:422
+msgid "MP4 Video File"
+msgstr ""
+
+#: load.php:423 load.php:446
+msgid "Enter the URL for your MP4 file here."
+msgstr ""
+
+#: load.php:428
+msgid "Preview Image"
+msgstr ""
+
+#: load.php:434
+msgid "Embedded Code"
+msgstr ""
+
+#: load.php:440
+msgid "Audio Format"
+msgstr ""
+
+#: load.php:445
+msgid "MP3 Audio File"
+msgstr ""
+
+#: load.php:465
+msgid "<i class=\"pl-icon pl-icon-pencil\"></i> Edit Post Info"
+msgstr ""
+
+#: load.php:466
+msgid ""
+"This section uses WordPress posts. Edit post information using WordPress "
+"admin."
+msgstr ""
+
+#: load.php:471
+msgid "Layout"
+msgstr ""
+
+#: load.php:477
+msgid "Select Layout"
+msgstr ""
+
+#: load.php:480
+msgid "Read Width Content"
+msgstr ""
+
+#: load.php:481
+msgid "One Sidebar Right"
+msgstr ""
+
+#: load.php:482
+msgid "One Sidebar Left"
+msgstr ""
+
+#: load.php:483
+msgid "Left / Right Sidebar"
+msgstr ""
+
+#: load.php:484
+msgid "Two Sidebar Right"
+msgstr ""
+
+#: load.php:485
+msgid "Two Sidebar Left"
+msgstr ""
+
+#: load.php:486
+msgid "Full Width Content"
+msgstr ""
+
+#: load.php:495
+msgid "Sidebars"
+msgstr ""
+
+#: load.php:501
+msgid "Select Sidebar 1"
+msgstr ""
+
+#: load.php:507
+msgid "Select Sidebar 2"
+msgstr ""
+
+#: load.php:520
+msgid "by"
+msgstr ""
+
+#: load.php:714
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: load.php:718
+msgid "Pages:"
+msgstr ""
+
+#: load.php:732
+msgid "Read Full Article"
+msgstr ""
+
+#: load.php:734
+msgid "Read More"
+msgstr ""
+
+#: load.php:751
+msgid "No results for &quot;%s&quot;"
+msgstr ""
+
+#: load.php:751
+msgid "Nothing Found"
+msgstr ""
+
+#: load.php:753
+msgid "Try another search?"
+msgstr ""
+
+#: load.php:753
+msgid "Sorry, what you are looking for isn't here."
+msgstr ""
+
+#: settings.php:22
+msgid "Site Images"
+msgstr ""
+
+#: settings.php:28
+msgid "Default Logo"
+msgstr ""
+
+#: settings.php:29
+msgid ""
+"<p>Set a default site logo. This can be overridden by individual "
+"sections.</p>"
+msgstr ""
+
+#: settings.php:35
+msgid "Default Icon"
+msgstr ""
+
+#: settings.php:36
+msgid ""
+"<p>Set a default icon to be used in secondary locations and in places where "
+"an icon based logo is appropriate.</p>"
+msgstr ""
+
+#: settings.php:42
+msgid "Site Default Image ID"
+msgstr ""
+
+#: settings.php:43
+msgid ""
+"<p>Set the ID of the default image fallback. This can be used with various "
+"sizes and can be shown whenever an image is needed but not set yet.</p>"
+msgstr ""
+
+#: settings.php:52
+msgid "Upload Favicon (32px by 32px)"
+msgstr ""
+
+#: settings.php:57
+msgid "Favicon Image"
+msgstr ""
+
+#: settings.php:58
+msgid ""
+"<p>This is the small icon you see in your browser tabs or favorites.</p> "
+"<p><strong>The image must be .png or .ico file - 32px by 32px</strong>.</p>"
+msgstr ""
+
+#: settings.php:66
+msgid "Colors / Background"
+msgstr ""
+
+#: settings.php:73
+msgid "Site Background Color"
+msgstr ""
+
+#: settings.php:74
+msgid ""
+"This sets the global background color for your site. It does not effect any "
+"other colors, so choose it to work well with the scheme you have chosen."
+msgstr ""
+
+#: settings.php:77
+msgid "Site Text Color Scheme"
+msgstr ""
+
+#: settings.php:82
+msgid "Footer Background Color"
+msgstr ""
+
+#: settings.php:83
+msgid "This sets the background color for your site footer."
+msgstr ""
+
+#: settings.php:85
+msgid "Footer Text Color Scheme"
+msgstr ""
+
+#: settings.php:90
+msgid "Site Background Image"
+msgstr ""
+
+#: settings.php:91
+msgid "This sets a global background image for your site."
+msgstr ""
+
+#: settings.php:97
+msgid "Background Image Style"
+msgstr ""
+
+#: settings.php:110
+msgid "Background Image Tile Size"
+msgstr ""
+
+#: settings.php:119
+msgid ""
+"Note that this will only have an effect if you have selected \"tile\" as "
+"your background image style."
+msgstr ""
+
+#: settings.php:124
+msgid "Link Color"
+msgstr ""
+
+#: settings.php:125
+msgid ""
+"This will be the default color for links on your site. "
+"<strong>Note</strong> that it will be overridden by scheme changes on "
+"sections, due to the framework assuming you will be using contrasting "
+"backgrounds."
+msgstr ""
+
+#: settings.php:134
+msgid "Typography"
+msgstr ""
+
+#: settings.php:137
+msgid "Base Font Size"
+msgstr ""
+
+#: settings.php:144
+msgid ""
+"<p>This sets the base font size of your site, that all other font sizes are "
+"based on.</p> <p>Each section allows you to scale text relative to this.</p>"
+msgstr ""
+
+#: settings.php:149
+msgid "External Font Scripts"
+msgstr ""
+
+#: settings.php:155
+msgid ""
+"<p>To ensure cross browser compatibility and the best visual appeal, we "
+"recommend you use an external font library. Our recommended services for "
+"this are <a href=\"http://www.google.com/fonts\" target=\"_blank\">Google "
+"Fonts</a> and <a href=\"http://www.typekit.com\" "
+"target=\"_blank\">Typekit</a>.</p>  <p>To add specific fonts from these "
+"sites, place their scripts here and they will be placed in your site "
+"&lt;head&gt;.</p>"
+msgstr ""
+
+#: settings.php:162
+msgid "Primary Type Style"
+msgstr ""
+
+#: settings.php:164
+msgid ""
+"<p>Add CSS directed at your global primary text.</p> <p>Leave blank and the "
+"default styles will be used.</p>"
+msgstr ""
+
+#: settings.php:171
+msgid "Major Header Style (H1, H2)"
+msgstr ""
+
+#: settings.php:173
+msgid ""
+"<p>Add CSS directed at your website text headers h1-h2.</p> <p>Leave blank "
+"and they will inherit your primary text style.</p>"
+msgstr ""
+
+#: settings.php:180
+msgid "Minor Header Style (H3, H4, H5, H6)"
+msgstr ""
+
+#: settings.php:182
+msgid "<p>These styles will apply to elements h3, h4, h5, h6.</p>"
+msgstr ""
+
+#: settings.php:192
+msgid "Layout / Nav"
+msgstr ""
+
+#: settings.php:198
+msgid "Content Width"
+msgstr ""
+
+#: settings.php:201
+msgid "800px"
+msgstr ""
+
+#: settings.php:202
+msgid "960px"
+msgstr ""
+
+#: settings.php:203
+msgid "1000px"
+msgstr ""
+
+#: settings.php:204
+msgid "1200px"
+msgstr ""
+
+#: settings.php:205
+msgid "80%"
+msgstr ""
+
+#: settings.php:206
+msgid "90%"
+msgstr ""
+
+#: settings.php:207
+msgid "100%"
+msgstr ""
+
+#: settings.php:209
+msgid ""
+"<p>Set the standard width for content within your full width containers. "
+"This can be a fixed pixel width or percent of window width.</p> <p>Note, it "
+"will be responsive, content resizes to 100% width on mobile devices.</p>"
+msgstr ""
+
+#: settings.php:214
+msgid "Reading Width"
+msgstr ""
+
+#: settings.php:219
+msgid ""
+"<p>Optionally override the default \"reading\" width. This width should "
+"have an optimized line length for eye tracking, usually 50 to 60 "
+"characters.</p>"
+msgstr ""
+
+#: settings.php:225
+msgid "Mobile / Default Menu"
+msgstr ""
+
+#: settings.php:226
+msgid ""
+"<p>Set the primary/default navigation for your site. This will be used in "
+"the pop out mobile menu and as the default in navigation sections.</p>"
+msgstr ""
+
+#: settings.php:234
+msgid "Mobile Sub / Secondary Menu"
+msgstr ""
+
+#: settings.php:265
+msgid "Child Theme"
+msgstr ""
+
+#: settings.php:271
+msgid "Framework Parent Styles"
+msgstr ""
+
+#: settings.php:272
+msgid "Disable parent framework style.css?"
+msgstr ""
+
+#: settings.php:273
+msgid ""
+"<p>If you are creating a custom framework child theme, disable parent "
+"styling if you are using your own or have pasted the framework style.css "
+"there.</p>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "PageLines Framework"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.pagelines.com/framework"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean, mobile-friendly WordPress framework optimized for PageLines "
+"Platform."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Framework A"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Framework B"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Framework C"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Framework D"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Framework E"
+msgstr ""

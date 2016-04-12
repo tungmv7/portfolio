@@ -1,0 +1,69 @@
+/*
+Theme Name: Portfolio
+Author: Tung Mang
+Author URI: http://tungmang.com
+Description: Child theme for PageLines Framework.
+Version: 1.0
+Template: pl-framework
+*/
+
+.pl-nav > li.current-menu-item > a{
+    border-bottom: 2px solid #F6700E;
+    font-weight: bold;
+    font-size: 1em;
+    background-color: transparent !important;
+}
+.pl-nav > li > a {
+    padding: .5em 0 !important;
+    margin: .5em 1em;
+}
+
+.pl-nav > li > a:hover {
+    color: #F6700E;
+    background-color: transparent !important;
+}
+
+.page-title small{
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: normal;
+    padding: 0 .5em;
+}
+
+.pl-content-layout {
+    padding-top: 1em;
+}
+
+.custom-pin .postpin{
+    border: none;
+}
+.pl-scheme-light .pl-social-counter .pl-social-icon i {
+    color: #fff !important;
+}
+.lax-window .lax-mast {
+    padding-bottom: .5em !important;
+}
+.lax-window .lax-mast .subhead {
+    opacity: 1;
+    font-weight: bold;
+}
+.postpin .headline {
+    font-size: 1em !important;
+    font-weight: normal;
+}
+.postpin .pin-img-wrap .pin-img {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+.postpin .pin-img-wrap {
+    border: none !important;
+}
+.postpin {
+    border-radius: 0 !important;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.pl-link-credit {
+    display: none !important;
+}
