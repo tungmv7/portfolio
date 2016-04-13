@@ -67,3 +67,6 @@ Template: pl-framework
 .pl-link-credit {
     display: none !important;
 }
+.pl-sn-fly-quotes .pl-quote {
+    font-size: 1.2em !important;
+}
